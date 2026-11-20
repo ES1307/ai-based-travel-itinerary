@@ -4,8 +4,6 @@ A full-stack travel-planning application that creates personalised, multi-day it
 
 The app ranks attractions from a bundled destination dataset, prioritises exact and related interests, filters results by budget, and organises recommendations into daily plans. The responsive React interface presents the itinerary and can export it as a PDF.
 
-![Application screenshot](srms.png)
-
 ## Features
 
 - Step-by-step trip planner for destination, duration, budget, pace, and interests
