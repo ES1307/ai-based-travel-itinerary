@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Amber Fort",
+    "city": "Jaipur",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.7
+  },
+  {
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.5
+  },
+  {
+    "name": "Jantar Mantar",
+    "city": "Jaipur",
+    "category": "art",
+    "budget": "economical",
+    "rating": 4.6
+  },
+  {
+    "name": "City Palace",
+    "city": "Jaipur",
+    "category": "history",
+    "budget": "luxury",
+    "rating": 4.6
+  },
+  {
+    "name": "Nahargarh Fort",
+    "city": "Jaipur",
+    "category": "nature",
+    "budget": "moderate",
+    "rating": 4.6
+  },
+  {
+    "name": "Jal Mahal",
+    "city": "Jaipur",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Albert Hall Museum",
+    "city": "Jaipur",
+    "category": "art",
+    "budget": "moderate",
+    "rating": 4.5
+  },
+  {
+    "name": "Chokhi Dhani",
+    "city": "Jaipur",
+    "category": "food",
+    "budget": "luxury",
+    "rating": 4.5
+  },
+  {
+    "name": "Johari Bazaar",
+    "city": "Jaipur",
+    "category": "food",
+    "budget": "economical",
+    "rating": 4.3
+  },
+  {
+    "name": "Bapu Bazaar",
+    "city": "Jaipur",
+    "category": "shopping",
+    "budget": "economical",
+    "rating": 4.2
+  },
+  {
+    "name": "Patrika Gate",
+    "city": "Jaipur",
+    "category": "art",
+    "budget": "economical",
+    "rating": 4.7
+  },
+  {
+    "name": "Panna Meena ka Kund",
+    "city": "Jaipur",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.6
+  },
+  {
+    "name": "Sisodia Rani Garden",
+    "city": "Jaipur",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Galta Ji Temple",
+    "city": "Jaipur",
+    "category": "spiritual",
+    "budget": "economical",
+    "rating": 4.5
+  },
+  {
+    "name": "Jaigarh Fort",
+    "city": "Jaipur",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.6
+  },
+  {
+    "name": "Central Park",
+    "city": "Jaipur",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.3
+  },
+
+  {
+    "name": "India Gate",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.6
+  },
+  {
+    "name": "Red Fort",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.5
+  },
+  {
+    "name": "Lotus Temple",
+    "city": "Delhi",
+    "category": "spiritual",
+    "budget": "economical",
+    "rating": 4.7
+  },
+  {
+    "name": "Qutub Minar",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.6
+  },
+  {
+    "name": "Humayun's Tomb",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.6
+  },
+  {
+    "name": "Connaught Place",
+    "city": "Delhi",
+    "category": "food",
+    "budget": "luxury",
+    "rating": 4.4
+  },
+  {
+    "name": "Lodhi Garden",
+    "city": "Delhi",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.5
+  },
+  {
+    "name": "National Museum",
+    "city": "Delhi",
+    "category": "art",
+    "budget": "moderate",
+    "rating": 4.5
+  },
+  {
+    "name": "Akshardham Temple",
+    "city": "Delhi",
+    "category": "spiritual",
+    "budget": "economical",
+    "rating": 4.8
+  },
+  {
+    "name": "Chandni Chowk",
+    "city": "Delhi",
+    "category": "food",
+    "budget": "economical",
+    "rating": 4.6
+  },
+  {
+    "name": "Sanjay Van",
+    "city": "Delhi",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.2
+  },
+  {
+    "name": "Agrasen ki Baoli",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Safdarjung Tomb",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.3
+  },
+  {
+    "name": "Mehrauli Archaeological Park",
+    "city": "Delhi",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Deer Park",
+    "city": "Delhi",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.3
+  },
+  {
+    "name": "Hauz Khas Village",
+    "city": "Delhi",
+    "category": "nightlife",
+    "budget": "moderate",
+    "rating": 4.5
+  },
+  {
+    "name": "Gurudwara Bangla Sahib",
+    "city": "Delhi",
+    "category": "spiritual",
+    "budget": "economical",
+    "rating": 4.8
+  },
+
+  {
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "category": "history",
+    "budget": "luxury",
+    "rating": 4.9
+  },
+  {
+    "name": "Agra Fort",
+    "city": "Agra",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.6
+  },
+  {
+    "name": "Mehtab Bagh",
+    "city": "Agra",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Itmad-ud-Daulah",
+    "city": "Agra",
+    "category": "art",
+    "budget": "economical",
+    "rating": 4.5
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "city": "Agra",
+    "category": "history",
+    "budget": "moderate",
+    "rating": 4.6
+  },
+  {
+    "name": "Kinari Bazaar",
+    "city": "Agra",
+    "category": "food",
+    "budget": "economical",
+    "rating": 4.3
+  },
+  {
+    "name": "Anguri Bagh",
+    "city": "Agra",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Tomb of Akbar the Great",
+    "city": "Agra",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.5
+  },
+  {
+    "name": "Sadar Bazaar",
+    "city": "Agra",
+    "category": "shopping",
+    "budget": "economical",
+    "rating": 4.2
+  },
+  {
+    "name": "Soami Bagh",
+    "city": "Agra",
+    "category": "spiritual",
+    "budget": "economical",
+    "rating": 4.3
+  },
+  {
+    "name": "Marble Craft Market",
+    "city": "Agra",
+    "category": "art",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Mughal Heritage Walk",
+    "city": "Agra",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.6
+  },
+  {
+    "name": "Mariam's Tomb",
+    "city": "Agra",
+    "category": "history",
+    "budget": "economical",
+    "rating": 4.4
+  },
+  {
+    "name": "Chini Ka Rauza",
+    "city": "Agra",
+    "category": "art",
+    "budget": "economical",
+    "rating": 4.3
+  },
+  {
+    "name": "Ram Bagh",
+    "city": "Agra",
+    "category": "nature",
+    "budget": "economical",
+    "rating": 4.2
+  },
+  {
+    "name": "Taj Museum",
+    "city": "Agra",
+    "category": "art",
+    "budget": "economical",
+    "rating": 4.5
+  }
+]
