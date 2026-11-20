@@ -4,6 +4,33 @@ A full-stack travel-planning application that creates personalised, multi-day it
 
 The app ranks attractions from a bundled destination dataset, prioritises exact and related interests, filters results by budget, and organises recommendations into daily plans. The responsive React interface presents the itinerary and can export it as a PDF.
 
+## Screenshots
+
+### 1. Choose a destination
+
+![Destination step](assets/screenshots/01-destination.png)
+
+### 2. Set the trip duration
+
+![Duration step](assets/screenshots/02-duration.png)
+
+### 3. Select a budget
+
+![Budget step](assets/screenshots/03-budget.png)
+
+### 4. Choose a travel pace
+
+![Travel pace step](assets/screenshots/04-travel-pace.png)
+
+### 5. Add your interests
+
+![Interests step](assets/screenshots/05-interests.png)
+
+### 6. View and export the itinerary
+
+![Generated itinerary](assets/screenshots/06-itinerary-result.png)
+
+
 ## Features
 
 - Step-by-step trip planner for destination, duration, budget, pace, and interests
